@@ -2,7 +2,6 @@
 spring_practice 
 스프링기초 - <김영한>
 
-
 <java - 11>
 ## 프로젝트 선택  
 # spring boot
@@ -14,3 +13,7 @@ spring_practice
 6. groupId: hello
 7. artifactId: hello-spring
 8. Dependencies: Spring Web, Thymeleaf
+# DB / CONNECTION
+DB : H2DB
+JDBC / JPA / JPA TABLE
+
