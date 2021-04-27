@@ -3,7 +3,7 @@ spring_practice
 스프링기초 - <김영한>
 
 <java - 11>
-## 프로젝트 선택  
+## 프로젝트(사용자 등록, 삭제, 전체조회)
 # spring boot
 1. Project: Gradle Project
 2. Spring Boot: 2.3.xLanguage: Java
